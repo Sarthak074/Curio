@@ -25,7 +25,6 @@ Curio is a chatbot companion designed specifically for kids aged 1-12, offering 
 5. Create a .env file and put: `API_KEY="your api key`
 
 ## Usage
-- Visit the deployed application to interact with Curio
 - Explore various topics, play educational games, and learn new things
 - Provide feedback to help us improve Curio's features and content offerings
 
