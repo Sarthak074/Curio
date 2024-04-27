@@ -24,6 +24,9 @@ Curio is a chatbot companion designed specifically for kids aged 1-12, offering 
 4. Start the server: `node server.js`
 5. Create a .env file and put: `API_KEY="your api key`
 
+## Note
+- If it gives error while starting a server you can use port no. 8080 or 3000
+
 ## Usage
 - Explore various topics, play educational games, and learn new things
 - Provide feedback to help us improve Curio's features and content offerings
